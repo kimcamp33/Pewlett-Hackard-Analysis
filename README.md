@@ -10,10 +10,14 @@ To determine retirement eligibility, a list of employees was filtered by employe
 -- The largest number of roles that need to be filled will be Senior Engineers with a count of 29,414.  
 -- The smallest number of roles that need to be filled are managers with a count of 2.  
 
+![image](https://user-images.githubusercontent.com/99801608/166107555-e4e6b46a-2d7e-4c51-aa2e-ddf4acb28b3d.png)
+
 
 ### Mentorship Eligibility 
 As Bobby’s manager checks for mentorship eligibility, he can prioritize the roles with the largest amount retirement eligible employees.  
 Bobby’s manager must find ways to fill roles as employees become eligible for retirement.  The next steps is to determine which employees are eligible for the mentorship program. This step was completed by pulling employee’s information including name and title onto a CSV. This file show’s Bobby’s manager all the employees eligible for mentorship and he can filter the results by title which makes it easier to find mentees based on the titles with the most potential openings. 
+
+![image](https://user-images.githubusercontent.com/99801608/166107568-f4cf487f-ee31-4374-9308-9e20e7442098.png)
 
 
 ## Summary 
